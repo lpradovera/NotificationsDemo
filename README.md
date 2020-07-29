@@ -1,8 +1,12 @@
+# C# Notification example
+
+This is a simple example to show how notifications could be handled via SignalWire on C#.
+
 ## Examples
 
-`dotnet run -- --mode sms --to +14043287382 --from +14043287360 --message "Welcome to SignalWire"`
+`dotnet run -- --mode sms --to +14043287999 --from +14043287000 --message "Welcome to SignalWire"`
 
-`dotnet run -- --mode text --to +14043287382 --from +14043287360 --message "Welcome to SignalWire"`
+`dotnet run -- --mode text --to +14043287999 --from +14043287000 --message "Welcome to SignalWire"`
 
 ## Set up configuration
 
